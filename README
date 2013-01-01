@@ -1,0 +1,6 @@
+This is a python script I whipped up in order as part of my
+sneaky wedding proposal. It can convert from text to
+hexadecimal representations of game code, or from hex code
+to text.
+
+Run convert-text.py -h for more info.
